@@ -1,6 +1,6 @@
 # msgan-pytorch
 
-Pytorch implementation of pggan
+Pytorch implementation of msgan
 
 we used RTX3080.
 

@@ -1,4 +1,4 @@
-# pggan-pytorch
+# msgan-pytorch
 
 Pytorch implementation of pggan
 

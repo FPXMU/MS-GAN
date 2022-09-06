@@ -2,7 +2,7 @@
 
 Pytorch implementation of pggan
 
-we used RTX3080 in our experiment
+we used RTX3080.
 
 file description
 
